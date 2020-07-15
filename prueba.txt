@@ -2,4 +2,6 @@ Creacion de archivo txt para GIT
 
 v1: Esta es tu primera modificacion, continuemos.
 
+Master 1
+
 Parrafo adicional para revisar
